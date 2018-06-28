@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SurfApp</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+
+    <!--Registration-->
+    <string name="registration">Зарегистрироваться</string>
+    <string name="get_code">Получить код</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="code_from_sms">Код из СМС</string>
+    <string name="restore_password">Восстановление пароля</string>
+    <string name="forgot_password">Забыли пароль</string>
+    <string name="forgot_password_underline"><u>Забыли пароль?</u></string>
+    <string name="sign_in">Регистрация</string>
+    <string name="sign_in_underline"><u>Регистрация</u></string>
+    <string name="come_in">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="authorization">Авторизация</string>
+    <string name="you_name">Ваше Имя</string>
+    <string name="you_phone">Телефон</string>
+    <string name="resend_code"><u>Отправить код повторно</u></string>
+    <string name="next">Далее</string>
+    <string name="registration_for">Регистрация для</string>
+    <string name="registration_for_car_services">Автосервисов</string>
+    <string name="registration_for_car_wash">Автомоек</string>
+
+</resources>

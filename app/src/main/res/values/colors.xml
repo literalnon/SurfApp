@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eacd45</color>
+    <color name="colorPrimaryDark">#736525</color>
+    <color name="colorAccent">#eacd45</color>
+
+    <color name="appBackground">#f5f5f5</color>
+
+    <!-- app colors -->
+    <color name="colorAppBackgroundLayout">#f5f5f5</color>
+    <color name="colorViewDivider">#e8e8e8</color>
+    <color name="colorGrayBackground">#efefef</color>
+    <color name="colorYellowBackground">#ebcf4c</color>
+    <color name="colorGrayLineBackground">#f6f6f6</color>
+
+    <!-- screen choose service -->
+    <color name="colorFindServiceCard">@color/colorPrimary</color>
+    <color name="colorSparesCard">#b3dd9c</color>
+    <color name="colorCarWashCard">#77baf3</color>
+    <color name="colorWreckerCard">#fa7b7b</color>
+    <color name="colorCarRentalCard">#eba34f</color>
+
+    <color name="colorBackgroundCallBtn">#00c853</color>
+    <color name="colorBackgroundNavigation">#333333</color>
+    <color name="colorBackgroundImage">#e8e8e8</color>
+
+    <!-- toolbar color -->
+    <color name="carWashToolbarColor">#53aef4</color>
+    <color name="colorShortDescription">#f5f5f5</color>
+    <color name="colorBlockLine">#d0d0d0</color>
+    <color name="colorServiceRating">#ffae00</color>
+    <color name="carRentalToolbarColor">#eba34f</color>
+    <color name="carWreckerToolbarColor">#fa7b7b</color>
+    <color name="advertsToolbarColor">#82c75d</color>
+
+    <!-- Profile Fragment -->
+    <color name="colorProfileBgWhite">#ffffff</color>
+    <color name="colorProfileBgLightGray">#f5f5f5</color>
+    <color name="colorProfileSmallText">#c5c5c5</color>
+    <color name="colorProfileErrorText">#d56262</color>
+    <color name="colorProfileEditTextInactive">#e8e8e8</color>
+    <color name="colorProfileDivider">#d0d0d0</color>
+    <color name="colorProfileTrashColor">#db6a64</color>
+    <color name="colorOrderTrashColor">#333333</color>
+
+    <!-- Car Addition Fragment -->
+    <color name="colorBgIndigo">#3f51b5</color>
+
+    <!-- registration -->
+    <color name="colorRegistrationEnterCodeSuccess">#b3dd9c</color>
+
+    <color name="colorGreyText">#686868</color>
+
+    <color name="colorRadioButtonLine">#fbc021</color>
+    <color name="colorDialogFragment">#f0db7a</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorTransBlack">#de000000</color>
+    <color name="colorPaleBlack">#b3000000</color>
+    <color name="random_advert_color">#67c2ca</color>
+
+    <color name="request_for_service_response">#79d8a4</color>
+    <color name="request_for_service_grey_text">#80000000</color>
+    <color name="request_for_service_grey_line">#e8e8e8</color>
+
+    <!-- FAQ Fragment -->
+    <color name="colorFaqExpanded">#fbfbfb</color>
+    <color name="colorFaqDivider">#e8e8e8</color>
+    <color name="colorAnswer">#cc000000</color>
+    <color name="colorEmailPrompt">#80000000</color>
+    <color name="colorCounter">#61000000</color>
+    <color name="colorCounterOverflow">@color/colorProfileErrorText</color>
+    <color name="colorErrorPrompt">@color/colorProfileErrorText</color>
+    <color name="colorSupportEmail">#83c5fc</color>
+
+</resources>
